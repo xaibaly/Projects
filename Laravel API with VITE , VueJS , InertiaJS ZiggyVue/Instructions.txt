@@ -1,0 +1,4 @@
+1. Import Database 'DB.SQL' through SQLYog
+2. Open Folder Through VSCODE
+2.1 Run Larvel API via php artisan serve
+2.2 Open Another Terminal in VSCode and Run Vue through npm run dev
